@@ -13,3 +13,5 @@ The Arduino code available here is responsible for the irrigation of the 4.0 Cen
 The irrigation rules programmed here were stipulated by the gardening experts in charge of creating the garden.
 
 It basically turns on 1 of the 5 pumps of each garden's portion for 20 minutes, early in the morning, on mondays, wednesdays and fridays.
+
+![](https://raw.githubusercontent.com/cristiano-de-magalhaes/garden_automation/main/Photos/Arduino%20and%20relays%20on%20the%20electric%20panel.jpeg)
